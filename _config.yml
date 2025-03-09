@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zhuang Chang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Embodied Agents; XR; Biosensing"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Auckland"
   uri              : # URL
   email            : "none@example.org" 
 
