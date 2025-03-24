@@ -31,13 +31,13 @@ for file in g:
     data = data.to_dict()
 
     # Press on if the location is not present
-    if 'location' not in data:
+    if "location" not in data:
         continue
 
     # Prepare the description
-    title = data['title'].strip()
-    venue = data['venue'].strip()
-    location = data['location'].strip()
+    title = data["title"].strip()
+    venue = data["venue"].strip()
+    location = data["location"].strip()
     description = f"{title}<br />{venue}; {location}"
 
     # Geocode the location and report the status
