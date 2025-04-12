@@ -11,35 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Bioengineering, University of Auckland, New Zealand, 2026 (expected)
+* M.S. in Engineering, Northwestern Polytechnical University, China, 2018
+* B.S. in Engineering, Northwestern Polytechnical University, China, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024.07 - 2025.02: Research Assistant
+  * Auckland Bioengineering Institute, University of Auckland
+  * Duties includes: Research project management and software development
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* 2019.10 - 2021.07: Technical Manager
+  * Cyber Reality Innovation Centre (Startup Company)
+  * Duties included: Managing a 7 people R&D team
+
+
+* 2018.05 - 2019.07: Software Development Assistant
+  * Southwest China Research Institute of Electronic Equipment
+  * Duties included: Assisting software engineerings with development
+
+* 2017.10 - 2018.01: Intern
+  * University of South Australia
+  * Duties included: Developing a collaborative VR system for sharing biosignals
+
+* 2017.10 - 2018.01: Intern
+  * Envision Energy
+  * Duties included: Developing a VR-based system for interactive wind turbine product visualization
 
 Publications
 ======
@@ -47,7 +46,35 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+
+Project experience
+======
+<ul>{% for post in site.projects reversed %}
+    {% include archive-single-cv.html  %}
+  {% endfor %}</ul>
+
+
+<!-- * 2024.07 - 2025.02: Using LLM-based virtual agents for traumatic brain injury rehabilitation
+  * Project description: 
+  * 
+  * [YouTube link](https://youtu.be/7Tw_j2t83zg)
+
+* 2019.10 - 2021.07: XR-based Digital Twin System
+  * Auckland Bioengineering Institute, University of Auckland
+  * Project description: Using LLM-based virtual agents for traumatic brain injury rehabilitation -->
+
+
+Skills
+======
+* HCI Design
+* Software development
+  * Unity3D/C#
+  * Python
+  * R
+
+
+
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +88,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
