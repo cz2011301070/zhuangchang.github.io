@@ -36,7 +36,7 @@ Work experience
   * University of South Australia
   * Duties included: Developing a collaborative VR system for sharing biosignals
 
-* 2017.10 - 2018.01: Intern
+* 2017.07 - 2017.09: Intern
   * Envision Energy
   * Duties included: Developing a VR-based system for interactive wind turbine product visualization
 
