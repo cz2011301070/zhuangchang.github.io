@@ -19,3 +19,8 @@ With a background in Mixed Reality and Virtual Agents, my work often blends desi
 🤝 Human-agent collaboration
 
 Outside of work, you’ll probably find me tinkering with Unity projects, reading about cognition and technology, or hiking trails with good views and bad Wi-Fi.
+
+<!-- ClustrMaps tracking script -->
+<div id="clustrmaps-widget" style="position: fixed; bottom: 10px; right: 10px; width: 150px; height: 150px; z-index: 1000;">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=https://zcha621.github.io/zhuangchang//&cl=ffffff&w=a"></script>
+</div>
