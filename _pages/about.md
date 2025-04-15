@@ -21,13 +21,13 @@ With a background in Mixed Reality and Virtual Agents, my work often blends desi
 Outside of work, you’ll probably find me tinkering with Unity projects, reading about cognition and technology, or hiking trails with good views and bad Wi-Fi.
 
 <!-- Google Maps Embed -->
-<div style="width: 100%; height: 400px;">
-  <iframe 
-    src="https://www.google.com/maps/place/70+Symonds+Street,+Grafton,+Auckland+1010,+New+Zealand/@-36.8560402,174.7616913,16z/data=!3m1!4b1!4m6!3m5!1s0x6d0d47e6971eaff7:0xf00ef62249bc9d0!8m2!3d-36.8560446!4d174.7665622!16s%2Fg%2F1tngqgq5?hl=en&entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D" 
+<div style="width: 400px; height: 300px; float: right; margin-left: 20px;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6384.867088779004!2d174.76169128233357!3d-36.85604020829573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d0d47e6971eaff7%3A0xf00ef62249bc9d0!2s70%20Symonds%20Street%2C%20Grafton%2C%20Auckland%201010%2C%20New%20Zealand!5e0!3m2!1sen!2sus!4v1744718237658!5m2!1sen!2sus" 
     width="100%" 
-    height="400" 
+    height="100%" 
     style="border:0;" 
     allowfullscreen="" 
-    loading="lazy">
+    loading="lazy" 
+    referrerpolicy="no-referrer-when-downgrade">
   </iframe>
 </div>
