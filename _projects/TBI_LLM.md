@@ -1,13 +1,14 @@
 ---
 title: "LLM-based Conversational Virtual Agents in VR for Traumatic Brain Injury Rehabilitation"
 collection: projects
-permalink: /publication/TBI_LLM
+permalink: /project/TBI_LLM
 excerpt: 'A LLM-based conversational AI agent deployed in a virtual reality café environment to support rehabilitation for individuals with traumatic brain injury.'
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Tw_j2t83zg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This project builds upon a previous [Pre-scripted agents for traumatic brain injury (TBI)](/publication/TBI_Prescripted), which focuses on developing a Virtual Reality (VR) system aimed at rehabilitating individuals with cognitive fatigue resulting from TBI. The previous work culminates in the creation of a virtual café, a simulated environment where TBI patients relearn essential life skills in a realistic setting. The effectiveness of this VR tool is validated through a successful clinical trial involving 11 TBI clients and 13 clinicians. The trial demonstrates that clinicians use the VR system to observe patients during therapy sessions, moving beyond reliance on client feedback or hypothetical scenarios. Additionally, the VR system proves beneficial for a variety of therapeutic interventions and integrates seamlessly into clinical practice.
+
+This project builds upon the [Pre-scripted agents for traumatic brain injury (TBI) project](/project/TBI_Prescripted), which focuses on developing a Virtual Reality (VR) system aimed at rehabilitating individuals with cognitive fatigue resulting from TBI. The previous work culminates in the creation of a virtual café, a simulated environment where TBI patients relearn essential life skills in a realistic setting. The effectiveness of this VR tool is validated through a successful clinical trial involving 11 TBI clients and 13 clinicians. The trial demonstrates that clinicians use the VR system to observe patients during therapy sessions, moving beyond reliance on client feedback or hypothetical scenarios. Additionally, the VR system proves beneficial for a variety of therapeutic interventions and integrates seamlessly into clinical practice.
 
 Feedback from the trial highlights several areas for improvement to enhance clinical uptake and patient outcomes. The current project addresses these key changes:
 - **Portability and Ease of Setup**: To increase clinical adoption of the VR system, it becomes more user-friendly and transportable. This project develops a stand-alone VR application that operates on self-contained VR headsets, eliminating the need for complex setups and making it easier to use in different clinical settings.

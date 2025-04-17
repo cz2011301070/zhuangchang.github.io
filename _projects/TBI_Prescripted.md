@@ -1,7 +1,7 @@
 ---
 title: "Pre-Scripted Virtual Agents in VR for Traumatic Brain Injury Rehabilitation"
 collection: projects
-permalink: /publication/TBI_Prescripted
+permalink: /project/TBI_Prescripted
 excerpt: 'A Pre-scripted conversational AI agent deployed in a virtual reality café environment to support rehabilitation for individuals with traumatic brain injury.'
 ---
 
