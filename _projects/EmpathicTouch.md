@@ -5,7 +5,7 @@ permalink: /project/EmpathicTouch
 excerpt: 'This project seeks to advance the design of empathic mixed reality agents by exploring the underexplored dimension of empathic touch and its potential to enhance human-agent emotional connection.'
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sm4dlSnl-3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A0_sgW1fJQU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Empathic communication is fundamental to establishing meaningful social relationships. In healthcare, for instance, a clinician’s display of empathy toward patients is widely recognized as essential for forming a strong therapeutic alliance. One important element of empathic interaction is physical touch—for example, greeting a long-lost friend with a hug.
 
