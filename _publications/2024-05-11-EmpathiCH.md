@@ -8,7 +8,7 @@ date: 2024-05-11
 venue: 'Proceedings of the 3rd Empathy-Centric Design Workshop: Scrutinizing Empathy Beyond the Individual'
 slidesurl: 'https://zcha621.github.io/zhuangchang/files/EMiRAs_EmpathiCH_Workshop.pdf'
 paperurl: 'https://zcha621.github.io/zhuangchang/files/EmpathiCH2024.pdf'
-citation: 'Chang, Zhuang, Yun Suen Pai, Jiashuo Cao, Kunal Gupta, and Mark Billinghurst. EMiRAs-Empathic Mixed Reality Agents. In Proceedings of the 3rd Empathy-Centric Design Workshop: Scrutinizing Empathy Beyond the Individual, pp. 1-7. 2024. DOI: https://doi.org/10.1145/3661790.3661791'
+citation: '<b>Chang, Zhuang</b>, Yun Suen Pai, Jiashuo Cao, Kunal Gupta, and Mark Billinghurst. EMiRAs-Empathic Mixed Reality Agents. In Proceedings of the 3rd Empathy-Centric Design Workshop: Scrutinizing Empathy Beyond the Individual, pp. 1-7. 2024. DOI: 10.1145/3661790.3661791'
 ---
 
 <figure>
