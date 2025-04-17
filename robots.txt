@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhuangchang.info/sitemap.xml
