@@ -67,10 +67,28 @@ Project experience
 Skills
 ======
 * HCI Design
+  * AR/VR/MR interaction design
+  * User study design
 * Software development
   * Unity3D/C#
+  * C++
   * Python
   * R
+* IDE Tools
+  * VScode
+  * Visual Studio
+  * Android Stuio
+* Design Tools
+  * Adobe Illustrator, Photoshop, Premiere
+  * Figma, Miro
+
+
+
+
+<!-- * Office Tools
+  * Microsoft Word, Powerpoint, Excel, Onenote
+  * Google Docs, Slides, Sheets
+  * Latex -->
 
 
 
