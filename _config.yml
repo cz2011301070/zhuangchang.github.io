@@ -13,8 +13,8 @@ title                    : "Zhuang Chang / Personal Website"
 title_separator          : "-"
 name                     : &name "Zhuang Chang"
 description              : &description "personal description"
-url                      : https://zcha621.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "/zhuangchang" # the subpath of your site, e.g. "/blog"
+url                      : https://zhuangchang.info # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : # "/zhuangchang" 
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
